@@ -1,0 +1,5 @@
+site_name: Documentação para sistemas operacionais abertos
+site_author: Marcílio de Oliveira Freitas
+theme:
+  name: material
+  language: pt
