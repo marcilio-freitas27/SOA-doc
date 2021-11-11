@@ -16,6 +16,7 @@
 
 * [Markdown guide](https://www.markdownguide.org/getting-started/)
 * [Mkdocs guide](https://www.mkdocs.org/getting-started/)
+* [Mkdocs Material](https://squidfunk.github.io/mkdocs-material/)
 * [Python Downloads](https://www.python.org/downloads/)
 * [Python Virtual Environment](https://docs.python.org/3/tutorial/venv.html)
   
