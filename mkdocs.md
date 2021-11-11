@@ -9,7 +9,7 @@ Options:
   -h, --help     Show this message and exit.
 
 Commands:
-  build      Build the MkDocs documentation
-  gh-deploy  Deploy your documentation to GitHub Pages
-  new        Create a new MkDocs project
-  serve      Run the builtin development server
+  build      Construir a documentação do MKDOCs
+  gh-deploy  Implemente sua documentação para as páginas do GitHub
+  new        Crie um novo projeto Mkdocs
+  serve      Execute o servidor de desenvolvimento integral
