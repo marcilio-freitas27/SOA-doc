@@ -37,3 +37,7 @@ Interpretador de comandos (Shell: Bash e SH)
 Comandos (Ex.: cp, ls, cat, gcc etc.) e utilitários para linha de comando 
 Editor de texto (Emacs)
 
+Satya Nadella:
+Dispositivos móveis (mobile)
+Inteligência artificial (IA)
+Computação nas nuvens (cloud computing) com Azure
