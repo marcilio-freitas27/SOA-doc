@@ -1,3 +1,4 @@
+# Histórico
 Anotações de 17/11/2021
 
 Assunto: Histórico e Evolução do Sistema Operacional Linux
