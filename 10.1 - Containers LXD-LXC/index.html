@@ -16,7 +16,7 @@
     
     
       
-        <title>Histórico - Documentacao para sistemas operacionais abertos</title>
+        <title>10.1 - Containers LXD-LXC - Documentacao para sistemas operacionais abertos</title>
       
     
     
@@ -63,7 +63,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#historico" class="md-skip">
+        <a href="#101-containers-lxd-lxc" class="md-skip">
           Ir para o conteúdo
         </a>
       
@@ -95,7 +95,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Histórico
+              10.1 - Containers LXD-LXC
             
           </span>
         </div>
@@ -210,21 +210,6 @@
 
   
   
-  
-    <li class="md-nav__item">
-      <a href="../10.1%20-%20Containers%20LXD-LXC/" class="md-nav__link">
-        10.1 - Containers LXD-LXC
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
     
   
   
@@ -236,10 +221,71 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          10.1 - Containers LXD-LXC
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
-        Histórico
+        10.1 - Containers LXD-LXC
       </a>
       
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#lxd" class="md-nav__link">
+    LXD
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vm-vs-containers" class="md-nav__link">
+    VM vs Containers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#alguns-comandos" class="md-nav__link">
+    Alguns comandos
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../historico/" class="md-nav__link">
+        Histórico
+      </a>
     </li>
   
 
@@ -280,6 +326,35 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#lxd" class="md-nav__link">
+    LXD
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vm-vs-containers" class="md-nav__link">
+    VM vs Containers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#alguns-comandos" class="md-nav__link">
+    Alguns comandos
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -291,41 +366,24 @@
               
                 
                 
-                <h1 id="historico">Histórico</h1>
-<p>Anotações de 17/11/2021</p>
-<p>Assunto: Histórico e Evolução do Sistema Operacional Linux</p>
-<p>Aspas: 5W-1H
-Why (Por que)
-When (Quando)
-Who (Quem)
-Where (Onde)
-What (O quê)
-How (Como)</p>
-<p>Linux:
-Why (Por que): Por que ele foi criado? O Linus Torvalds queria um SO com execução de código protegido.
-When (Quando): Quando foi criado? 1991
-Who (Quem): Quem criou o Linux? R.: Linus Torvalds
-Where (Onde): Onde ele estudava? Onde ele morava? Estudava na Universidade de Helsinque.
-What (O quê): O que é o Linux? Sistema operacional de código aberto.
-How (Como): Como ele foi e como ele é desenvolvido atualmente?
-Complementou o projeto GNU com um núcleo de SO</p>
-<p>UNIX:
-É um sistema operacional (SO)
-Foi criado nos anos 60 na AT&amp;T (Laboratório Bel) que é uma empresa de telecomunicações
-Foi escrito em C por questão de portabilidade</p>
-<p>GNU:
-GNU is Not Unix (GNU)
-Criado por Richard Stallman
-Ideia de criar um SO livre e de código aberto:
-Núcleo do SO (Kernel)
-Bibliotecas (libs) para compilação de programas em C
-Interpretador de comandos (Shell: Bash e SH)
-Comandos (Ex.: cp, ls, cat, gcc etc.) e utilitários para linha de comando 
-Editor de texto (Emacs)</p>
-<p>Satya Nadella:
-Dispositivos móveis (mobile)
-Inteligência artificial (IA)
-Computação nas nuvens (cloud computing) com Azure</p>
+                <h1 id="101-containers-lxd-lxc">10.1 - Containers LXD-LXC</h1>
+<h2 id="lxd">LXD</h2>
+<ul>
+<li>Lxd/lxc são containers que simulam sistemas operacionais assim como as máquinas virtuais.</li>
+<li>lxd: lx deamon - Serviços</li>
+<li>lxc: lx client - Configurações</li>
+</ul>
+<h2 id="vm-vs-containers">VM vs Containers</h2>
+<ul>
+<li>Apesar de parecidos não são iguais. As virtual machines simulam tanto hardware como software. Já os containers, apenas o software. Os containers ocupam bem menos espaço que as VM's que ideal é para rodar alguns serviços.</li>
+</ul>
+<h2 id="alguns-comandos">Alguns comandos</h2>
+<ul>
+<li>Iniciar as configurações dos containers: <code>lxd init</code>;</li>
+<li>Listar as imagens disponíveis para download: <code>lxc list images</code></li>
+<li>Fazer o download de uma imagem específica: <code>lxc launch image &lt;nome-da-dist&gt;:&lt;versão&gt; &lt;nome-do-container&gt;</code></li>
+<li>Executar comandos no container: <code>lxc exec &lt;nome-do-container&gt; &lt;comando&gt; &lt;argumentos-do-comando&gt;</code></li>
+</ul>
                 
               
               
@@ -345,7 +403,7 @@ Computação nas nuvens (cloud computing) com Azure</p>
     <nav class="md-footer__inner md-grid" aria-label="Rodapé">
       
         
-        <a href="../10.1%20-%20Containers%20LXD-LXC/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: 10.1 - Containers LXD-LXC" rel="prev">
+        <a href="../10-Gerenciamento%20de%20Pacotes%20RPM%20com%20DNF/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: 10-Gerenciamento de Pacotes RPM com DNF" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -354,20 +412,20 @@ Computação nas nuvens (cloud computing) com Azure</p>
               <span class="md-footer__direction">
                 Anterior
               </span>
-              10.1 - Containers LXD-LXC
+              10-Gerenciamento de Pacotes RPM com DNF
             </div>
           </div>
         </a>
       
       
         
-        <a href="../programa/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Programa da disciplina" rel="next">
+        <a href="../historico/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Histórico" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Próximo
               </span>
-              Programa da disciplina
+              Histórico
             </div>
           </div>
           <div class="md-footer__button md-icon">
