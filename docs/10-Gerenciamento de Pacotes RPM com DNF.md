@@ -4,6 +4,7 @@
 - Distribuição Linux - Centos 
 - RedHat Package Manager
 - IBM
+- Semelhante ao DPKG do Debian
 - Debian - comunidade que criou a distribuição
 - Instalador `rpm`
 - Extensão `rpm`
