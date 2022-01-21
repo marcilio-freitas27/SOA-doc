@@ -380,8 +380,9 @@
 <h2 id="alguns-comandos">Alguns comandos</h2>
 <ul>
 <li>Iniciar as configurações dos containers: <code>lxd init</code>;</li>
-<li>Listar as imagens disponíveis para download: <code>lxc list images</code></li>
-<li>Fazer o download de uma imagem específica: <code>lxc launch image &lt;nome-da-dist&gt;:&lt;versão&gt; &lt;nome-do-container&gt;</code></li>
+<li>Listar containers: <code>lxc list</code></li>
+<li>Listar containers escolhendo as colunas para serem exibidas e qual a formatação: <code>lxc list -c n4s --format={csv|json|table}</code></li>
+<li>Fazer o download de uma imagem específica: <code>lxc launch image:&lt;nome-da-dist&gt;:&lt;versão&gt; &lt;nome-do-container&gt;</code></li>
 <li>Executar comandos no container: <code>lxc exec &lt;nome-do-container&gt; &lt;comando&gt; &lt;argumentos-do-comando&gt;</code></li>
 </ul>
                 
