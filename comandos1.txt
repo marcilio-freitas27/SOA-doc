@@ -1,0 +1,500 @@
+   16  cd app
+   17  ls
+   18  cd ..
+   19  ls
+   20  git status
+   21  git add app/ microblog.py
+   22  git status
+   23  git status
+   24  git commit -m "First app with Flask"
+   25  git status
+   26  git remote add origin https://github.com/marcilio-freitas27/microblog.git
+   27  git push origin master
+   28  ls
+   29  ls -la
+   30  git remote add origin https://github.com/marcilio-freitas27/microblog.git
+   31  git push origin master
+   32  git branch -M master
+   33  git push origin master
+   34  git push -u origin master
+   35  exit
+   36  source c:/workspace/microblog/venv/Scripts/activate
+   37  ls
+   38  source venv/Scripts/deactivate.bat 
+   39  exit
+   40  source c:/workspace/microblog/venv/Scripts/activate
+   41  ls
+   42  cd app/
+   43  ls
+   44  cd ..
+   45  flask run
+   46  flask run
+   47  exit
+   48  source c:/workspace/microblog/venv/Scripts/activate
+   49  ls
+   50  ls
+   51  flask run
+   52  flask run
+   53  flask run
+   54  flask run
+   55  flask run
+   56  flask run
+   57  flask run
+   58  flask run
+   59  flask run
+   60  flask run
+   61  flask run
+   62  flask run
+   63  flask run
+   64  flask run
+   65  exit
+   66  ls
+   67  cd ..
+   68  ls
+   69  cd microblog/
+   70  ls
+   71  ls
+   72  source venv/Scripts/activate
+   73  ls
+   74  flask run
+   75  flask run
+   76  flask run
+   77  flask run
+   78  flask run
+   79  flask run
+   80  flask run
+   81  flask run
+   82  flask run
+   83  flask run
+   84  flask run
+   85  flask run
+   86  flask run
+   87  flask run
+   88  exit
+   89  source f:/Users/marba/Documents/python_django/mydjango/Scripts/activate
+   90   /usr/bin/env f:\\Users\\marba\\Documents\\python_django\\mydjango\\Scripts\\python.exe c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.2.582707922\\pythonFiles\\lib\\python\\debugpy\\launcher 56453 -- F:\\Users\\marba\\Documents\\python_django\\manage.py runserver 
+   91  ls
+   92  ls
+   93  cd mydjango/
+   94  ls
+   95  cd agenda/
+   96  ls
+   97  python manage.py runserver
+   98  python manage.py runserver
+   99  python manage.py runserver
+  100  python manage.py runserver
+  101  ls
+  102  git status
+  103  git add .
+  104  git status
+  105  git commit -m "Criando página de listagem part 1"
+  106  git push origin master
+  107  history |grep git
+  108  git push origin HEAD:master
+  109  git fetch
+  110  git push origin master
+  111  exit
+  112  cd mydjango/
+  113  ls
+  114  source Scripts/activate
+  115  ls
+  116  ls
+  117  cd agenda/
+  118  ls
+  119  cd core
+  120  ls
+  121  cd ..
+  122  ls
+  123  ls
+  124  exit
+  125  source f:/Users/marba/Documents/python_django/mydjango/Scripts/activate
+  126  exit
+  127  cd /f/Users/marba/Documents/python_django/mydjango/agenda
+  128  ls
+  129  git status
+  130  git push origin master
+  131  git push --help
+  132  git fetch origin
+  133  git merge origin master
+  134  git merge origin
+  135  git merge 
+  136  git merge origin
+  137  git push origin master
+  138  git fetch
+  139  git push origin master
+  140  git push origin master --force
+  141  python -m venv venv
+  142  source venv/Scripts/activate
+  143  pip install pywhatkit
+  144  python -m pip install pywhatkit
+  145  pip install --upgrade pip
+  146  python -m pip install --upgrade pip
+  147  python -m pip install pywhatkit
+  148  ls
+  149  ls
+  150  source venv/Scripts/activate
+  151  ls
+  152  python main.py 
+  153  python main.py 
+  154  python main.py 
+  155  python main.py 
+  156  python main.py 
+  157  python main.py 
+  158  python main.py 
+  159  python main.py 
+  160  python main.py 
+  161  python main.py 
+  162  python main.py 
+  163  python main.py 
+  164  python main.py 
+  165  python main.py 
+  166  python main.py 
+  167  python main.py 
+  168  python main.py 
+  169  python main.py 
+  170  python main.py 
+  171  python main.py 
+  172  python main.py 
+  173  python main.py 
+  174  python main.py 
+  175  python main.py 
+  176  python main.py 
+  177  python main.py 
+  178  python main.py 
+  179  python main.py 
+  180  python main.py 
+  181  python main.py 
+  182  python main.py 
+  183  ls
+  184  cat pywhatkit_dbs.txt 
+  185  python
+  186  python
+  187  exit
+  188  ls
+  189  pwd
+  190  composer
+  191  exit
+  192  composer
+  193  pwd
+  194  cd ../..
+  195  cd xampp/
+  196  ls
+  197  cd htdocs/
+  198  cd digital-cep/
+  199  composer
+  200  php
+  201  cls
+  202  cd /c/xampp/htdocs/digital-cep
+  203  composer
+  204  composer init 
+  205  ls
+  206  php example.php 
+  207  composer install
+  208  php example.php 
+  209  php example.php 
+  210  php example.php 
+  211  composer init
+  212  cd ..
+  213  composer
+  214  composer init
+  215  composer
+  216  composer init 
+  217  exit
+  218  cd /c/xampp/htdocs/digital-cep
+  219  phpunit
+  220  php -v
+  221  phpunit --help
+  222  ls
+  223  php example.php 
+  224  composer
+  225  ls
+  226  composer init
+  227  composer require --dev phpunit/phpunit ^9
+  228  php
+  229  php
+  230  php
+  231  composer
+  232  composer update
+  233  composer
+  234  composer init
+  235  composer install
+  236  composer config -g -- disable-tls true
+  237  composer init
+  238  composer require --dev phpunit/phpunit ^9
+  239  extension=php_openssl.dll
+  240  composer require --dev phpunit/phpunit ^9
+  241  composer config -g -- disable-tls false
+  242  composer require --dev phpunit/phpunit ^9
+  243  composer require --dev phpunit/phpunit ^8
+  244  extension=php_openssl.dll
+  245  extension_dir = "ext"
+  246  composer require --dev phpunit/phpunit ^9
+  247  composer config -g -- disable-tls true
+  248  composer require --dev phpunit/phpunit ^9
+  249  composer config -g -- disable-tls true
+  250  composer update
+  251  composer install
+  252  composer update
+  253  composer require --dev phpunit/phpunit ^9
+  254  php -v
+  255  exit
+  256  history |grep tag
+  257  history |grep --tag
+  258  history |grep tag
+  259  composer create-project laravel/laravel meulara
+  260  composer create-project --prefer-dist laravel/lumen meulumen
+  261   /usr/bin/env "C:\\Program Files (x86)\\Python38-32\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 62743 -- "f:\\Users\\marba\\Documents\\Python GUI\\keyboard.py" 
+  262   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "C:\\Program Files (x86)\\Python38-32\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 62757 -- "f:\\Users\\marba\\Documents\\Python GUI\\keyboard.py" 
+  263   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "C:\\Program Files (x86)\\Python38-32\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 62766 -- "f:\\Users\\marba\\Documents\\Python GUI\\keyboard.py" 
+  264   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "C:\\Program Files (x86)\\Python38-32\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 62778 -- "f:\\Users\\marba\\Documents\\Python GUI\\keyboard.py" 
+  265   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "C:\\Program Files (x86)\\Python38-32\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 62787 -- "f:\\Users\\marba\\Documents\\Python GUI\\keyboard.py" 
+  266   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "C:\\Program Files (x86)\\Python38-32\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 62798 -- "f:\\Users\\marba\\Documents\\Python GUI\\keyboard.py" 
+  267  python
+  268   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "C:\\Program Files (x86)\\Python38-32\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 62823 -- "f:\\Users\\marba\\Documents\\Python GUI\\keyboard.py" 
+  269   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "C:\\Program Files (x86)\\Python38-32\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 62850 -- "f:\\Users\\marba\\Documents\\Python GUI\\keyboard.py" 
+  270  python -m venv simple_keyboard
+  271  ls
+  272  mv keyboard.py simple_keyboard/
+  273  ls
+  274  cd simple_keyboard/
+  275  ls
+  276  source Scripts/activate
+  277  ls
+  278  pip install keyboard
+  279  python keyboard.py 
+  280  source Scripts/activate
+  281  python keyboard.py 
+  282  python keyboard.py 
+  283  python
+  284  source Scripts/activate
+  285  python keyboard.py 
+  286  ls
+  287  source Scripts/activate
+  288  python keyboard.py 
+  289  pip install keyboard
+  290  pip install keyboard
+  291  pip install --upgrade pip
+  292  pip install --upgrade pip --user
+  293  pip install --upgrade pip
+  294  pip install --upgrade pip
+  295  python -m pip install --upgrade pip
+  296  pip install --upgrade pip
+  297  pip
+  298  python
+  299  ls
+  300  python keyboard.py 
+  301  exit
+  302  ls
+  303  source Scripts/activate
+  304  python keyboard.py 
+  305  pip install keyboard
+  306  pip3 install keyboard
+  307  pip
+  308  python -m pip install keyboard
+  309  python -m pip3 install keyboard
+  310  ls
+  311  exit
+  312  source "f:/Users/marba/Documents/Python GUI/simple_keyboard/Scripts/activate"
+  313   /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56082 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  314   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56111 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  315   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56123 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  316   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56136 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  317   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56145 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  318   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56151 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  319   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56169 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  320   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56180 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  321   cd "f:\\Users\\marba\\Documents\\Python GUI" ; /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56189 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  322  exit
+  323  source "f:/Users/marba/Documents/Python GUI/simple_keyboard/Scripts/activate"
+  324   /usr/bin/env "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\Scripts\\python.exe" c:\\Users\\Marcílio\\.vscode\\extensions\\ms-python.python-2021.3.680753044\\pythonFiles\\lib\\python\\debugpy\\launcher 56197 -- "f:\\Users\\marba\\Documents\\Python GUI\\simple_keyboard\\keyboard.py" 
+  325  exit
+  326  wsl
+  327  cmd
+  328  ls
+  329  dir
+  330  mkdir prettytable
+  331  ls
+  332  cd prettytable/
+  333  python venv tabela
+  334  python -m venv tabela
+  335  ls
+  336  cd tabela/
+  337  ls
+  338  source Scripts/activate
+  339  ls
+  340  python -m pip install prettytable
+  341  ls
+  342  cmd
+  343  cd desktop
+  344  ls
+  345  ls
+  346  pwd
+  347  ls
+  348  ls
+  349  mkdir face-detection
+  350  ls
+  351  ls
+  352  cd face-detection/
+  353  ls
+  354  ls
+  355  ls
+  356  python -m venv opencv
+  357  ls
+  358  cd opencv/
+  359  ls
+  360  source Scripts/activate
+  361  pip install opencv-python
+  362  ls
+  363  python main.py 
+  364  python main.py 
+  365  python main.py 
+  366  python main.py 
+  367  cd opencv/
+  368  ls
+  369  python main.py 
+  370  ls
+  371  source Scripts/activate
+  372  python main.py 
+  373  python main.py 
+  374  python main.py 
+  375  python main.py 
+  376  pip install opencv-python
+  377  python main.py 
+  378  python main.py 
+  379  python main.py 
+  380  python main.py 
+  381  python main.py 
+  382  python main.py 
+  383  python main.py 
+  384  python main.py 
+  385  php -S localhost:5555
+  386  dir
+  387  pwd
+  388  pip -help
+  389  pip --help
+  390  python -m pip -help
+  391  python -m pip list
+  392  python -m pip install --upgrade pip
+  393  python -m pip list
+  394  python -m pip list -help
+  395  python -m pip list -o
+  396  python setuptools -help
+  397  python -m pip setuptools -help
+  398  python -help
+  399  python -m pip list -u
+  400  python -m pip list -l
+  401  python -m pip list -o
+  402  python -m pip list -help
+  403  python -m pip list -e
+  404  python -m build
+  405  ls
+  406  python setup.py
+  407  python setup.py -e
+  408  python setup.py -help
+  409  python setup.py --help
+  410  python setup.py install
+  411  python setup.py install
+  412  python setup.py install
+  413  ls
+  414  python -m venv velha-kivy
+  415  source velha-kivy/Scripts/activate
+  416  ls
+  417  pip install -help
+  418  pip install kivy=1.11.1
+  419  pip install kivy==1.11.1
+  420  ls
+  421  pip install kivy
+  422  python tabuleiro.py 
+  423  python mobile.py 
+  424  pip install kivy==1.11.1
+  425  python mobile.py 
+  426  python mobile.py 
+  427  python mobile.py 
+  428  pip install kivy
+  429  python tabuleiro.py 
+  430  python mobile.py 
+  431  python mobile.py 
+  432  python mobile.py 
+  433  python -m kivy
+  434  python -m kivy -v
+  435  python -m kivy -h
+  436  python -m kivy -d
+  437  python -m kivy -f
+  438  python -m kivy -r
+  439  ls
+  440  cd kivy
+  441  ls
+  442  cd kivy
+  443  cd \kivy
+  444  ls
+  445  cd ..
+  446  ls
+  447  python main.py
+  448  ls
+  449  python main2.py
+  450  ls
+  451  cd jogokivy
+  452  ls
+  453  cd ..
+  454  ls
+  455  cd dados
+  456  ls
+  457  python main.py 
+  458  ls
+  459  cd ..
+  460  ls
+  461  cd chat
+  462  ls
+  463  cd Chat_GUI
+  464  ls
+  465  python main.py 
+  466  ls
+  467  python chatserverUDPGUI.py 
+  468  ls
+  469  ls
+  470  cat chatserverUDPGUI.py 
+  471  python chatserverUDPGUI.py 
+  472  exit
+  473  source kivy/velha/velha-kivy/Scripts/activate
+  474  python kivy/chat/Chat_GUI/chatserverUDPGUI.py 
+  475  python kivy/chat/Chat_GUI/chatserverUDPGUI.py 
+  476  python kivy/chat/Chat_GUI/chatserverUDPGUI.py 
+  477  python kivy/chat/Chat_GUI/chatserverUDPGUI.py 
+  478  python kivy/chat/main.py 
+  479  mount
+  480  help mount
+  481  mount help
+  482  cls
+  483  clear
+  484  ls
+  485  exit
+  486  git clone https://github.com/marcilio-freitas27/marcilio-freitas27.github.io.git
+  487  ls
+  488  cd marcilio-freitas27.github.io/
+  489  echo "Hello World" > index.html
+  490  git add --all
+  491  git commit -m "Initial commit"
+  492  git push -u origin main
+  493  git push -u origin master
+  494  ssh marcilio@192.168.1.100
+  495  exit
+  496  git clone https://github.com/marcilio-freitas27/bootstrap.git
+  497  python -m venv env
+  498  ls
+  499  exit
+  500  source d:/workspace/SOA-doc/env/Scripts/activate
+  501  pip3 install mkdocs-material
+  502  mkdocs
+  503  mkdocs gh-deploy
+  504  sim
+  505  git init
+  506  touch .gitignore
+  507  git add .
+  508  git status
+  509  git commit -m "primeiro commit"
+  510  git status
+  511  git remote add origin https://github.com/marcilio-freitas27/SOA-doc.git
+  512  git branch -M main
+  513  git push -u origin main
+  514  mkdocs gh-deploy
+  515  history > comandos.txt
